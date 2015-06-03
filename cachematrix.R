@@ -2,8 +2,8 @@
 ## and cacheSolve(). A cache is created of a matrix in
 ## the parent environment allowing information to be 
 ## retrived without the need to recalulate the inverse
-## Use:- cachedM   <- makeCacheMatrix(matrixToCache)
-##       inversion <- cacheSolve(cachedM)
+## Useage:- cachedM     <- makeCacheMatrix(matrixToCache)
+##          inversion   <- cacheSolve(cachedM)
 
 
 
